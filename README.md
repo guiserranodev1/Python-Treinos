@@ -14,7 +14,6 @@ Atualmente, meus códigos estão divididos nas seguintes frentes de estudo:
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python
-* *(Você pode adicionar aqui outras ferramentas que estiver usando, como Pandas, Jupyter Notebook, etc.)*
 
 ## 👨‍💻 Sobre o Desenvolvedor
 
