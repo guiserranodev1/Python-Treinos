@@ -17,7 +17,7 @@ Atualmente, meus códigos estão divididos nas seguintes frentes de estudo:
 
 ## 👨‍💻 Sobre o Desenvolvedor
 
-Sou estudante do 5º semestre de Ciência da Computação, focado em aprendizado contínuo e eficiência. Além de explorar o ecossistema do Python e Data Science, também desenvolvo projetos envolvendo Front-end (HTML, CSS e JavaScript), Java e fundamentos de Cybersecurity. 
+Sou estudante do 6º semestre de Ciência da Computação, focado em aprendizado contínuo e eficiência. Além de explorar o ecossistema do Python e Data Science, também desenvolvo projetos envolvendo Front-end (HTML, CSS e JavaScript), Java e fundamentos de Cybersecurity. 
 
 ---
 ⭐️ *Sinta-se à vontade para explorar os códigos. Se esse repositório for útil para você de alguma forma, deixe uma estrela!*
