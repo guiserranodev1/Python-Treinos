@@ -1,0 +1,3 @@
+numeros = input("Digite os números separados por espaço: ").split()
+pares = [x for x in numeros if int(x) % 2 == 0]  #pegue X para cada X em NUMEROS se X(inteiro)....
+print("Números pares:", " ".join(pares))
